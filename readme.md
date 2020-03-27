@@ -6,6 +6,10 @@ To get the quote, we call:
 
 https://api.lightningpath.org/v1/get_random_quote.php
 
+For more information on how this plugin, see the blog post I wrote about creating it
+
+https://www.benjaminpritchard.org/wp-lightning-path-quote/
+
 Benjamin Pritchard / Kundalini Software
 37-March-2020
 
